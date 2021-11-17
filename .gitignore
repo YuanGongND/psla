@@ -5,3 +5,5 @@
 /dropbox/*
 /src/label_enhancement/release_labelset.py
 .idea
+fig/model.png
+fig/psla.png
