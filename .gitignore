@@ -1,0 +1,7 @@
+*.pth
+*.csv
+*.pdf
+/src/ensemble/copy_ensemble.sh
+/dropbox/*
+/src/label_enhancement/release_labelset.py
+.idea

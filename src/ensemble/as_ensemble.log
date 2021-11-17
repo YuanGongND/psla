@@ -1,0 +1,29 @@
+# Ensemble 3 AudioSet Models Trained with Exactly Same Setting (Best Setting), But Different Random Seeds.
+---------------Ensemble Result Summary---------------
+Model 0 ../../pretrained_models/audioset/as_mdl_0.pth mAP: 0.440298, AUC: 0.974047, d-prime: 2.749102
+Model 1 ../../pretrained_models/audioset/as_mdl_1.pth mAP: 0.439790, AUC: 0.973978, d-prime: 2.747493
+Model 2 ../../pretrained_models/audioset/as_mdl_2.pth mAP: 0.439322, AUC: 0.973591, d-prime: 2.738487
+Ensemble 3 Models mAP: 0.464112, AUC: 0.978222, d-prime: 2.854353
+
+# Ensemble 5 Top-Performance AudioSet Models.
+---------------Ensemble Result Summary---------------
+Model 0 ../../pretrained_models/audioset/as_mdl_0.pth mAP: 0.440298, AUC: 0.974047, d-prime: 2.749102
+Model 1 ../../pretrained_models/audioset/as_mdl_1.pth mAP: 0.439790, AUC: 0.973978, d-prime: 2.747493
+Model 2 ../../pretrained_models/audioset/as_mdl_2.pth mAP: 0.439322, AUC: 0.973591, d-prime: 2.738487
+Model 3 ../../pretrained_models/audioset/as_mdl_3.pth mAP: 0.440555, AUC: 0.973639, d-prime: 2.739613
+Model 4 ../../pretrained_models/audioset/as_mdl_4.pth mAP: 0.439713, AUC: 0.973579, d-prime: 2.738213
+Ensemble 5 Models mAP: 0.469050, AUC: 0.978875, d-prime: 2.872325
+
+# Ensemble All 10 AudioSet Models Presented in the PSLA Paper
+---------------Ensemble Result Summary---------------
+Model 0 ../pretrained_models/audioset/as_mdl_1.pth mAP: 0.440298, AUC: 0.974047, d-prime: 2.749102
+Model 1 ../pretrained_models/audioset/as_mdl_0.pth mAP: 0.439790, AUC: 0.973978, d-prime: 2.747493
+Model 2 ../pretrained_models/audioset/as_mdl_2.pth mAP: 0.439322, AUC: 0.973591, d-prime: 2.738487
+Model 3 ../pretrained_models/audioset/as_mdl_3.pth mAP: 0.440555, AUC: 0.973639, d-prime: 2.739613
+Model 4 ../pretrained_models/audioset/as_mdl_4.pth mAP: 0.439713, AUC: 0.973579, d-prime: 2.738213
+Model 5 ../pretrained_models/audioset/as_mdl_5.pth mAP: 0.438852, AUC: 0.973534, d-prime: 2.737183
+Model 6 ../pretrained_models/audioset/as_mdl_6.pth mAP: 0.394262, AUC: 0.973054, d-prime: 2.726193
+Model 7 ../pretrained_models/audioset/as_mdl_7.pth mAP: 0.370860, AUC: 0.961183, d-prime: 2.495504
+Model 8 ../pretrained_models/audioset/as_mdl_8.pth mAP: 0.426624, AUC: 0.973353, d-prime: 2.733006
+Model 9 ../pretrained_models/audioset/as_mdl_9.pth mAP: 0.372092, AUC: 0.970509, d-prime: 2.670498
+Ensemble 10 Models mAP: 0.474380, AUC: 0.981043, d-prime: 2.935611
