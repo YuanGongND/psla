@@ -8,3 +8,5 @@
 fig/model.png
 fig/psla.png
 .DS_Store
+!/egs/audioset/class_labels_indices.csv
+!/egs/fsd50k/class_labels_indices.csv
