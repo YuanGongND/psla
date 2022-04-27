@@ -1,4 +1,5 @@
 # PSLA: Improving Audio Tagging with Pretraining, Sampling, Labeling, and Aggregation
+ - [News](#News)
  - [Introduction](#Introduction)
  - [Getting Started](#Getting-Started)
  - [FSD50K Recipe](#FSD50K-Recipe)
@@ -12,6 +13,9 @@
  - [Use PSLA Training Pipeline For New Datasets and Tasks](#Use-PSLA-Training-Pipeline-For-New-Datasets-and-Tasks)
  - [Use Pretrained CNN+Attention Model For New Tasks](#Use-Pretrained-CNN+Attention-Model-For-New-Tasks)
  - [Contact](#Contact)
+
+## News
+* April 2022: I will present PSLA at [13 May (Friday), 10:00 - 10:45 New York Time at ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=9274).
 
 ## Introduction
 
