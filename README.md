@@ -15,7 +15,7 @@
 
 ## Introduction
 
-<p align="center"><img src="https://raw.githubusercontent.com/YuanGongND/psla/main/fig/psla_poster_rs.png" alt="Illustration of PSLA." width="650"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/YuanGongND/psla/main/fig/psla_poster_rs.png" alt="Illustration of PSLA." width="1050"/></p>
 
 This repository contains the official implementation (in PyTorch) of the **PSLA Training Pipeline and CNN+Attention Model** proposed in the TASLP paper [PSLA: Improving Audio Tagging with Pretraining, Sampling, Labeling, and Aggregation](https://arxiv.org/pdf/2102.01243.pdf) (Yuan Gong, Yu-An Chung, and James Glass, MIT).  
 
