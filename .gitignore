@@ -7,6 +7,10 @@
 .idea
 fig/model.png
 fig/psla.png
+fig/*
+!fig/psla_poster_rs.png
 .DS_Store
 !/egs/audioset/class_labels_indices.csv
 !/egs/fsd50k/class_labels_indices.csv
+*.pptx
+*.mp4
