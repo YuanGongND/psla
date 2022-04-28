@@ -15,7 +15,7 @@
  - [Contact](#Contact)
 
 ## News
-* April 2022: I will present PSLA at [13 May (Friday), 10:00 - 10:45 New York Time at ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=9274).
+* April 2022: I will present PSLA at [13 May (Friday), 10:00 - 10:45 AM, New York Time at ICASSP 2022](https://2022.ieeeicassp.org/view_paper.php?PaperNum=9274).
 
 ## Introduction
 
