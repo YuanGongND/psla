@@ -265,7 +265,7 @@ If you use AudioSet and FSD50K recipe, you do not need this, the recipe handles 
 All results on the above table are mAP on the **original** evaluation set (i.e., the label of the evaluation set has **NOT** been modified), training setting might not be optimal, but experiments of each row are in the same setting, numbers should be used for reference only. 
 
 ## Use Pretrained Model for Audio Tagging Inference in One Click
-TBD
+We do not have a plan to release an inference script for the PSLA model. But we offer an one-click inference scripe for our Audio Spectrogram Transformer (AST) model at [Google Colab](https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/AST_Inference_Demo.ipynb) (no GPU needed). The AST model is different from PSLA model, but in terms of performance, AST is stronger.
 
 ## Use PSLA Training Pipeline For New Models
 
