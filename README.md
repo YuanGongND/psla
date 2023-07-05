@@ -149,7 +149,7 @@ python ../../src/gen_weight_file.py --dataset audioset --label_indices_path ./cl
 
 If you are experimenting with Full AudioSet, you can skip this, enhanced label does not improve the performance (potentially due to the evaluation label set is noisy). 
 
-If you are experimenting with Balanced AudioSet or want to enhance the labelset anyway, check our [pretrained enhanced label set](here), and change the labels in your datafile.
+If you are experimenting with Balanced AudioSet or want to enhance the labelset anyway, check our [pretrained enhanced label set](https://github.com/YuanGongND/psla#pretrained-enhanced-label-set), and change the labels in your datafile.
 
 **Step 3. Run the training and evaluation.**
 
