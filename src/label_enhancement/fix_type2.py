@@ -15,7 +15,7 @@ import numpy as np
 
 # map each class to its direct parent class
 def generate_parent_dict():
-    with open('/data/sls/scratch/yuangong/aed-pc/src/utilities/ontology.json', 'r', encoding='utf8')as fp:
+    with open('../utilities/ontology.json', 'r', encoding='utf8')as fp:
         ontology = json.load(fp)
     # label: direct parent class, none if it is root
     parent_dict = {}
